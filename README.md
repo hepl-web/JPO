@@ -79,7 +79,6 @@
 
 
 
-
 ## Projets web (B3) :
 
 * EspaceP (Jimmy Letecheur) : Site (wordpress) de Espace P, une organisation sans but lucratif accompagnant les travailleurs du sexe, en les conseillants et en leur apportant du soutien : https://github.com/Jimmylet/EspaceP.be
@@ -87,3 +86,26 @@
 ## PFE :
 
 * Site de la section infographie de la HEPL (Jimmy Letecheur) : https://github.com/Jimmylet/hepl-infographie-website
+
+
+
+***********************
+
+
+> Retrouvez ici quelques inforamtions généralkes concernant la formation et l’orientation web
+
+
+## Panorama général de la formation en infographie
+
+* Vidéo de Mr Parmentier présentant les trois orientations de la formation infographie : https://www.youtube.com/watch?v=P7hY-LTlkjo
+
+
+## L'orientation Web
+
+* Screencast de la présentation de l’option Web par Mr Vilain de ce 11 février 2022 (12 min.) : orientation Web.mp4
+* Le support de la présentation en question : orientation Web.pdf
+* web-option.pdf : un document de 4 pages reprenant
+    - la mind map du monde du développement web en 2020
+    - la roadmap du développement web en 2021
+    - un très bref aperçu des cours de l’orientation Web en B2 
+    - un très bref aperçu des cours de l’orientation Web en B3 

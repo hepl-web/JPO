@@ -73,7 +73,7 @@
 
 
 
-### Développement d’applications mobiles (B3)
+## Développement d’applications mobiles (B3)
 
 
 
